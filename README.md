@@ -1,6 +1,7 @@
 # How to use
 
 ```sh
+#!/bin/bash
 notransform
 ```
 
